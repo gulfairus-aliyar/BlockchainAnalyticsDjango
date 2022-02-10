@@ -13,7 +13,7 @@
 #### Create PostgreSQL database:
 * https://www.postgresqltutorial.com/postgresql-getting-started/
 * https://docs.djangoproject.com/en/4.0/ref/settings/#databases
-### Create chart js
+#### Create chart js:
 * https://www.jsdelivr.com/package/npm/chart.js
 * https://www.chartjs.org/docs/latest/
 #### Configure database in settings.py:
