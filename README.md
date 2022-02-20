@@ -35,4 +35,4 @@ DATABASES = {
 1. #### Run the application
     `python manage.py runserver` 
 2. #### Go to browser and type `localhost:8000`
-## Examples
+
